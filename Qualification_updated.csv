@@ -1,0 +1,61 @@
+QualID,EmpID,Position,Requirements,Date_In,DegreeLevel
+1,1,HR Assistant,BBA Communication Skills,2019-12-06,Bachelor's
+2,2,HR Manager,MBA 5 Yrs Exp,2018-03-20,Master's
+3,3,IT Support,B.Tech (IT) Troubleshooting,2020-01-15,Bachelor's
+4,4,Software Engineer,B.Tech (CS) Java/Python,2021-04-01,Bachelor's
+5,5,Data Analyst,B.Sc Stats Excel SQL,2020-08-11,Bachelor's
+6,6,Sr. Data Analyst,M.Sc Stats Power BI,2017-11-20,Master's
+7,7,Marketing Executive,BBA Google Ads,2021-05-10,Bachelor's
+8,8,Marketing Manager,MBA Marketing 5 Yrs Exp,2018-07-14,Master's
+9,9,Finance Analyst,B.Com Excel SAP,2020-02-19,Certification/Other
+10,10,Sr. Finance Officer,M.Com Chartered Accountant,2016-12-01,Certification/Other
+11,11,Legal Advisor,LLB Corporate Law,2015-10-09,Certification/Other
+12,12,Office Admin,B.A MS Office,2019-05-03,Certification/Other
+13,13,HR Executive,MBA HR Recruitment Skills,2018-08-22,Master's
+14,14,Network Admin,B.Tech CCNA Certification,2020-09-09,Bachelor's
+15,15,Frontend Developer,B.Tech ReactJS,2021-01-01,Bachelor's
+16,16,Backend Developer,B.Tech NodeJS,2021-02-14,Bachelor's
+17,17,UI/UX Designer,B.Des Figma/Adobe XD,2019-10-30,Certification/Other
+18,18,QA Tester,B.Sc IT Selenium,2020-04-04,Bachelor's
+19,19,Product Manager,MBA Agile Scrum,2017-05-25,Master's
+20,20,Content Writer,B.A English SEO,2022-11-01,Certification/Other
+21,21,HR Intern,BBA (Pursuing) Communication,2023-02-01,Bachelor's
+22,22,DevOps Engineer,B.Tech Jenkins AWS,2020-12-20,Bachelor's
+23,23,Database Admin,B.Tech SQL Server,2019-06-14,Bachelor's
+24,24,SAP Consultant,MBA SAP FICO,2018-07-30,Master's
+25,25,Operations Manager,MBA Ops Lean Six Sigma,2016-11-05,Master's
+26,26,CSR Executive,B.Com Customer Support,2020-03-17,Certification/Other
+27,27,CSR Manager,BBA CRM Software,2017-04-01,Bachelor's
+28,28,Digital Marketer,BCA SEO Google Analytics,2021-08-08,Certification/Other
+29,29,Security Officer,Ex-Army Security Protocols,2015-05-12,Certification/Other
+30,30,Procurement Head,MBA Supply Chain,2016-02-25,Master's
+31,31,Technical Writer,B.Tech Documentation Tools,2021-06-01,Bachelor's
+32,32,Sales Executive,BBA Cold Calling,2020-07-07,Bachelor's
+33,33,Sales Manager,MBA Sales CRM,2018-10-16,Master's
+34,34,Training Officer,B.Ed Training Delivery,2019-01-10,Certification/Other
+35,35,Training Manager,M.Ed L&D Programs,2017-03-12,Certification/Other
+36,36,Auditor,CA Internal Auditing,2015-09-23,Certification/Other
+37,37,IT Manager,M.Tech Infra Management,2016-06-18,Master's
+38,38,App Developer,B.Tech Android/iOS Dev,2020-05-10,Bachelor's
+39,39,Risk Analyst,MBA Finance Risk Mgmt Cert.,2019-11-20,Master's
+40,40,Graphic Designer,BFA Adobe Suite,2022-04-01,Certification/Other
+41,41,Executive Assistant,B.Com Office Mgmt,2021-02-15,Certification/Other
+42,42,Systems Analyst,B.Sc CS Business Analysis,2018-06-09,Bachelor's
+43,43,Chief Technology Officer,PhD CS Strategy Leadership,2014-01-01,Certification/Other
+44,44,Chief HR Officer,PhD HRM HR Policy Expert,2013-09-22,Certification/Other
+45,45,Chief Financial Officer,CA MBA Finance,2012-08-30,Master's
+46,46,Legal Head,LLM Compliance,2011-05-20,Certification/Other
+47,47,Head of Operations,MBA Ops 10 Yrs Exp,2010-03-19,Master's
+48,48,Full Stack Developer,B.Tech MERN Stack,2021-06-18,Bachelor's
+49,49,Machine Learning Eng,M.Tech AI Python ML,2022-01-08,Master's
+50,50,Cloud Architect,M.Tech AWS/Azure,2020-09-30,Master's
+51,51,CSR Trainer,B.Ed Public Speaking,2018-02-27,Certification/Other
+52,52,Recruiter,MBA HR ATS Tools,2021-03-22,Master's
+53,53,Business Analyst,MBA Tableau SQL,2020-11-01,Master's
+54,54,Lead Engineer,B.Tech 10 Yrs Exp,2016-10-05,Bachelor's
+55,55,Cybersecurity Expert,B.Tech Ethical Hacking,2021-12-13,Bachelor's
+56,56,HR Specialist,MBA Employee Relations,2019-05-06,Master's
+57,57,Junior Analyst,BBA Excel,2022-07-15,Bachelor's
+58,58,IT Intern,B.Tech (Pursuing) Basics,2023-01-05,Bachelor's
+59,59,Policy Analyst,MA Public Policy Law,2018-08-08,Certification/Other
+60,60,Data Engineer,B.Tech Big Data Tools,2020-03-25,Bachelor's
