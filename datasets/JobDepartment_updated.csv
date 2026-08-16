@@ -1,0 +1,61 @@
+JobID,JobDept,Name,Description,SalaryRange,RoleLevel
+1,Operations,Operations Engineer,Responsible for engineer duties in the operations department.,$70889 - $91502,Mid
+2,Finance,Finance Consultant,Responsible for consultant duties in the finance department.,$45757 - $102274,Mid
+3,IT,IT Coordinator,Responsible for coordinator duties in the IT department.,$32637 - $118326,Junior
+4,Marketing,Marketing Engineer,Responsible for engineer duties in the marketing department.,$48936 - $145464,Mid
+5,Finance,Finance Specialist,Responsible for specialist duties in the finance department.,$67562 - $99403,Mid
+6,Engineering,Engineering Executive,Responsible for executive duties in the engineering department.,$66000 - $125000,Mid
+7,Sales,Sales Manager,Responsible for managing the sales department.,$75000 - $130000,Senior
+8,IT,IT Analyst,Responsible for analyzing IT systems in the IT department.,$48000 - $92000,Mid
+9,HR,HR Manager,Responsible for managing the human resources department.,$68000 - $105000,Senior
+10,Operations,Operations Specialist,Responsible for specialist duties in the operations department.,$54000 - $90000,Mid
+11,Marketing,Marketing Coordinator,Responsible for coordinating marketing campaigns.,$55000 - $95000,Junior
+12,Legal,Legal Advisor,Responsible for advising on legal matters in the organization.,$95000 - $150000,Mid
+13,Finance,Financial Analyst,Responsible for analyzing financial data and trends.,$58000 - $120000,Mid
+14,IT,IT Support Specialist,Responsible for providing support for IT systems.,$40000 - $75000,Junior
+15,Engineering,Engineering Technician,Responsible for technical support in the engineering department.,$52000 - $85000,Mid
+16,Marketing,Marketing Executive,Responsible for executive duties in the marketing department.,$60000 - $110000,Mid
+17,Sales,Sales Executive,Responsible for executing sales strategies and goals.,$45000 - $95000,Mid
+18,HR,HR Executive,Responsible for executing HR policies and procedures.,$50000 - $95000,Mid
+19,Operations,Operations Manager,Responsible for managing operations and process improvements.,$85000 - $135000,Senior
+20,Legal,Legal Manager,Responsible for managing legal matters and team.,$115000 - $180000,Senior
+21,Finance,Finance Manager,Responsible for overseeing the financial department.,$95000 - $140000,Senior
+22,IT,IT Manager,Responsible for managing IT projects and teams.,$90000 - $145000,Senior
+23,Engineering,Senior Engineer,Responsible for senior engineering duties.,$80000 - $130000,Mid
+24,Sales,Senior Sales Manager,Responsible for managing the senior sales team.,$85000 - $145000,Senior
+25,HR,Senior HR Specialist,Responsible for overseeing HR functions and policies.,$70000 - $120000,Mid
+26,Operations,Senior Operations Manager,Responsible for managing senior operations processes.,$95000 - $150000,Senior
+27,Marketing,Senior Marketing Manager,Responsible for senior marketing campaigns and strategies.,$90000 - $150000,Senior
+28,IT,Senior IT Consultant,Responsible for consulting on senior IT projects.,$100000 - $160000,Mid
+29,Legal,Senior Legal Consultant,Responsible for providing senior legal consultation.,$120000 - $180000,Mid
+30,Finance,Senior Finance Analyst,Responsible for senior financial analysis and reporting.,$105000 - $160000,Mid
+31,Engineering,Senior Engineering Manager,Responsible for managing senior engineering teams.,$110000 - $170000,Senior
+32,Sales,Senior Sales Executive,Responsible for senior sales strategies and client management.,$95000 - $160000,Mid
+33,HR,HR Director,Responsible for overseeing all HR operations.,$120000 - $180000,Executive
+34,Operations,Operations Director,Responsible for managing all operational processes.,$125000 - $200000,Executive
+35,Marketing,Marketing Director,Responsible for overseeing marketing strategies and teams.,$130000 - $210000,Executive
+36,IT,IT Director,Responsible for overseeing IT department and projects.,$140000 - $220000,Executive
+37,Finance,Finance Director,Responsible for directing all financial activities.,$140000 - $250000,Executive
+38,Engineering,Engineering Director,Responsible for directing engineering projects and teams.,$150000 - $250000,Executive
+39,Sales,Sales Director,Responsible for directing all sales operations.,$150000 - $230000,Executive
+40,HR,HR Specialist,Responsible for supporting HR processes and employee relations.,$60000 - $110000,Mid
+41,Operations,Operations Executive,Responsible for executive duties in operations.,$55000 - $95000,Mid
+42,Marketing,Marketing Specialist,Responsible for handling marketing campaigns.,$48000 - $85000,Mid
+43,Finance,Finance Clerk,Responsible for clerical work in the finance department.,$35000 - $60000,Mid
+44,IT,IT Technician,Responsible for providing IT support and maintenance.,$37000 - $65000,Mid
+45,Engineering,Engineering Assistant,Responsible for assisting engineers with technical work.,$38000 - $70000,Junior
+46,Sales,Sales Clerk,Responsible for clerical duties in the sales department.,$32000 - $60000,Mid
+47,Marketing,Marketing Assistant,Responsible for assisting in marketing campaigns.,$35000 - $65000,Junior
+48,HR,HR Assistant,Responsible for assisting in HR operations and paperwork.,$33000 - $60000,Junior
+49,Operations,Operations Clerk,Responsible for clerical duties in operations.,$31000 - $55000,Mid
+50,Legal,Legal Assistant,Responsible for assisting in legal matters and paperwork.,$38000 - $75000,Junior
+51,Finance,Finance Assistant,Responsible for assisting with financial documentation.,$32000 - $60000,Junior
+52,IT,IT Support Technician,Responsible for supporting IT systems and infrastructure.,$35000 - $75000,Junior
+53,Engineering,Engineering Coordinator,Responsible for coordinating engineering tasks and projects.,$46000 - $85000,Junior
+54,Sales,Sales Assistant,Responsible for assisting with sales processes and paperwork.,$30000 - $50000,Junior
+55,Marketing,Marketing Coordinator,Responsible for coordinating marketing events.,$44000 - $80000,Junior
+56,HR,HR Coordinator,Responsible for coordinating HR initiatives and procedures.,$47000 - $85000,Junior
+57,Operations,Operations Assistant,Responsible for assisting with operations management.,$43000 - $70000,Junior
+58,Legal,Legal Coordinator,Responsible for coordinating legal team activities.,$48000 - $85000,Junior
+59,Finance,Finance Coordinator,Responsible for coordinating finance team activities.,$47000 - $80000,Junior
+60,IT,IT Manager,Responsible for managing IT infrastructure and team.,$120000 - $180000,Senior
